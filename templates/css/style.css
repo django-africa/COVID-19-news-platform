@@ -1,0 +1,41 @@
+.container{
+    padding-top: 100px;
+    justify-content: center;
+}
+
+h1{
+    text-align: center;
+}
+
+li{
+    font-size: 20px;
+    list-style: none;
+}
+
+li:hover{
+    font-size: 21px;
+}
+
+a{
+    text-decoration: none;
+}
+
+.bd-placeholder-img {
+    font-size: 1.125rem;
+    text-anchor: middle;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+  }
+
+  @media (min-width: 768px) {
+    .bd-placeholder-img-lg {
+      font-size: 3.5rem;
+    }
+  }
+
+  .form-label-group{
+      width: 550px;
+      margin-left: 400px;
+  }
